@@ -117,4 +117,4 @@ For more information, please visit `the informational page
 `participant information sheet
 <https://sustainable-open-science-and-software.github.io/assets/PIS_sustainable_software.pdf>`__.
 
-[![cartory](https://thomasguymer.co.uk/blog/2018/2018-01-15/)](https://thomasguymer.co.uk/blog/2018/2018-01-15/natural-earth-1_large1024px.png)
+[![cartory](https://raw.githubusercontent.com/barionleg/matplotlib/main/lib/matplotlib/style/natural-earth-1_large1024px.png)](https://thomasguymer.co.uk/blog/2018/2018-01-15/)
