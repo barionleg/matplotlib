@@ -116,3 +116,5 @@ For more information, please visit `the informational page
 <https://sustainable-open-science-and-software.github.io/>`__ or download the
 `participant information sheet
 <https://sustainable-open-science-and-software.github.io/assets/PIS_sustainable_software.pdf>`__.
+
+[![https://thomasguymer.co.uk/blog/2018/2018-01-15/](https://thomasguymer.co.uk/blog/2018/2018-01-15/natural-earth-1_large1024px.png)]
