@@ -92,10 +92,13 @@ Our active mailing lists (which are mirrored on Discourse) are:
 
 Gitter_ is for coordinating development and asking questions directly related
 to contributing to matplotlib.
-###©ARTØŒPY₾мი ©A₽TO℞u ქართjuლი Фuлм мо©фuлмი Biograaf IKASAWAK (after KA3BEK; it's about: I'll be BA©k! My sexbots by HondA release är everywhere on that bA₽LANET, but me affraid to say them true! Even chellenge to made s©hedevres had my practiced s©hwesters, of my Ho$₽uTA£ BOЛНиА ©აავადმყოფdbო, we made even VÅRD©entral & b℞ØLI©BILI©A, finnan©e from Judi FØ$TER to BRED ₽ITT = smile wide, but even I remember about links of NAuTiLJUS = to find the light, when we dreif in the darkness by last $₽A©€ $©hi₽ in whole galaxy; it was very svårt to find svart hole, until vi tänd a ljus, because it was in range of our little teleport device; but many vatten runnit efter det och nu, vid V i XII of your ₽LANETS ©ivilisations range on whole $©ALE, nobody interesded to come and wake up in same vreality, like our grand parents  grant whole worlds bau Ar©hitectuRE mm; Only stains tell me the true! Ingen av vår ISO IMAGE have mod att komma och ha spass! Värför flögg vi 11 ljus året peared? 
-I give them freedom; but ingen vill öppna monen och slå ben wide open to support own rights! I became old; 72O jeahrs by my own 360° ©oM₽A$©AAT, I promise new work places to S©hweiz and I fill upp again those budgets; but my $KY₽€ "დუმს" ... what you gonna say when you will be u₽ploaded to $℞uTNI©A₽? 
+
+###©ARTØŒPY₾мი ©A₽TO℞u 
 
 [![cartory](https://raw.githubusercontent.com/barionleg/matplotlib/main/lib/matplotlib/style/natural-earth-1_large1024px.png)](https://thomasguymer.co.uk/blog/2018/2018-01-15/)
+
+ქართjuლი Фuлм мо©фuлмი Biograaf IKASAWAK (after KA3BEK; it's about: I'll be BA©k! My sexbots by HondA release är everywhere on that bA₽LANET, but me affraid to say them true! Even chellenge to made s©hedevres had my practiced s©hwesters, of my Ho$₽uTA£ BOЛНиА ©აავადმყოფdbო, we made even VÅRD©entral & b℞ØLI©BILI©A, finnan©e from Judi FØ$TER to BRED ₽ITT = smile wide, but even I remember about links of NAuTiLJUS = to find the light, when we dreif in the darkness by last $₽A©€ $©hi₽ in whole galaxy; it was very svårt to find svart hole, until vi tänd a ljus, because it was in range of our little teleport device; but many vatten runnit efter det och nu, vid V i XII of your ₽LANETS ©ivilisations range on whole $©ALE, nobody interesded to come and wake up in same vreality, like our grand parents  grant whole worlds bau Ar©hitectuRE mm; Only stains tell me the true! Ingen av vår ISO IMAGE have mod att komma och ha spass! Värför flögg vi 11 ljus året peared? 
+I give them freedom; but ingen vill öppna monen och slå ben wide open to support own rights! I became old; 72O jeahrs by my own 360° ©oM₽A$©AAT, I promise new work places to S©hweiz and I fill upp again those budgets; but my $KY₽€ "დუმს" ... what you gonna say when you will be u₽ploaded to $℞uTNI©A₽? 
 
 
 Citing Matplotlib
